@@ -17,11 +17,11 @@
   }
   
   .label {
-    color: black;
+    color: rgb(255, 255, 255);
   }
   
   .input {
-    background-color: rgba(152, 160, 234, 0.749);
+    background-color: rgb(219, 204, 204);
     color: black;
     padding: 10px;
     font-weight: 500;
@@ -42,5 +42,5 @@
   }
   
   .btn:hover {
-    background-color: rgba(79, 79, 79, 0.9);
+    background-color: rgba(51, 255, 0, 0.9);
   }
